@@ -1,8 +1,5 @@
-# CAN 2.0A Controller IP - Complete Implementation
+# CAN 2.0A Controller IP 
 
-## Overview
-
-This is a complete, verified CAN 2.0A controller IP core implemented in pure Verilog (IEEE-1364) for Xilinx Vivado synthesis. The design follows a modular architecture with all blocks individually verified before integration.
 
 **Key Features:**
 - CAN 2.0A standard compliance (11-bit identifier, data frames)
